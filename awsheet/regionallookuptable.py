@@ -7,7 +7,7 @@ import os
 import ruamel.yaml
 import logging
 import sys
-from ruamel.yaml.parser import ParserError
+#from ruamel.yaml.parser import ParserError
 
 region_list = [
         'ap-northeast-1',
